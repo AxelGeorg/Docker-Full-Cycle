@@ -20,7 +20,7 @@ Abra seu navegador no http://localhost:8080/
 
 
 Situação de teste 2:
-Para rodar o docker-compose=
+Ao rodar o node o index.js grava no banco de dados.
 
 
 - Colocar os containers para rodar(node e mysql):
