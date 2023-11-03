@@ -1,5 +1,5 @@
 Situação de teste 1:
-Para gerar imagens, network e rodar os containers=
+Nginx proxy reverso do laravel, rodar esses comandos ou utilizar docker-compose.laravel.yaml.
 
 - Estando na pasta /laravel/ gerar imagem:
 docker build -t axelgeorg/laravel -f Dockerfile.prod .
